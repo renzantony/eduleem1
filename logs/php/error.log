@@ -1,0 +1,83 @@
+[22-Nov-2023 04:43:28 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 04:43:28 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 04:43:28 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 06:02:02 UTC] Sync process for Gutenberg Blocks has started.
+[22-Nov-2023 06:02:02 UTC] CATEGORY:Importing categories..
+[22-Nov-2023 06:02:02 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[22-Nov-2023 06:02:02 UTC] CATEGORY:Completed category import.
+[22-Nov-2023 06:02:02 UTC] BLOCK: Getting Total Blocks
+[22-Nov-2023 06:02:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[22-Nov-2023 06:02:02 UTC] BLOCK: Requests count 4
+[22-Nov-2023 06:02:02 UTC] BLOCK: Importing request 1 ..
+[22-Nov-2023 06:02:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[22-Nov-2023 06:02:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[22-Nov-2023 06:02:02 UTC] BLOCK: Completed request 1
+[22-Nov-2023 06:02:02 UTC] BLOCK: Importing request 2 ..
+[22-Nov-2023 06:02:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[22-Nov-2023 06:02:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[22-Nov-2023 06:02:02 UTC] BLOCK: Completed request 2
+[22-Nov-2023 06:02:02 UTC] BLOCK: Importing request 3 ..
+[22-Nov-2023 06:02:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[22-Nov-2023 06:02:03 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[22-Nov-2023 06:02:03 UTC] BLOCK: Completed request 3
+[22-Nov-2023 06:02:03 UTC] BLOCK: Importing request 4 ..
+[22-Nov-2023 06:02:03 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[22-Nov-2023 06:02:03 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[22-Nov-2023 06:02:03 UTC] BLOCK: Completed request 4
+[22-Nov-2023 06:02:03 UTC] SITE: Getting Total Sites
+[22-Nov-2023 06:02:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[22-Nov-2023 06:02:03 UTC] SITE: Request count 2
+[22-Nov-2023 06:02:03 UTC] SITE: Importing request 1 ..
+[22-Nov-2023 06:02:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[22-Nov-2023 06:02:03 UTC] SITE: Storing in option ast-block-templates-sites-1
+[22-Nov-2023 06:02:03 UTC] SITE: Completed request 1
+[22-Nov-2023 06:02:03 UTC] SITE: Importing request 2 ..
+[22-Nov-2023 06:02:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[22-Nov-2023 06:02:03 UTC] SITE: Storing in option ast-block-templates-sites-2
+[22-Nov-2023 06:02:03 UTC] SITE: Completed request 2
+[22-Nov-2023 06:02:03 UTC] Sync process for Gutenberg Blocks is done.
+[22-Nov-2023 06:07:17 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:07:17 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:07:17 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 06:10:55 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:10:55 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:10:55 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 06:11:49 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:11:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:11:49 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 06:14:04 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:14:04 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:14:04 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:19:01 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 06:21:23 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:21:23 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 06:21:23 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:40 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:56:57 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[22-Nov-2023 07:58:06 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 07:58:06 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[22-Nov-2023 07:58:06 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[24-Nov-2023 20:35:23 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[25-Nov-2023 04:08:19 UTC] PHP Warning:  Undefined variable $options in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
+[25-Nov-2023 04:08:19 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\renza\Local Sites\eduleem1\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2327
